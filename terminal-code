@@ -1,0 +1,18 @@
+# Terminal Code
+
+This repository contains Python scripts and code examples for terminal-based projects.
+
+## Features
+
+- Python scripts for terminal automation
+- Example code for learning and testing
+- Quick and easy-to-run scripts
+
+## Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/Yogesh-borse/terminal-code.git
+
+# Navigate to the folder
+cd terminal-code
